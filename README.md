@@ -41,7 +41,7 @@ To set up and run the project locally:
 
 1. **Clone the Repository:**  
    ```bash
-   git clone https://github.com/sagnik-datta-02/ChatwithPDF.git
+   git clone https://github.com/krutika13/Chat-with-pdfs.git
    ```  
 
 2. **Install Dependencies:**  
@@ -55,7 +55,7 @@ To set up and run the project locally:
 
 4. **Run the Streamlit App:**  
    ```bash
-   streamlit run multipdfragapp.py
+   streamlit run multipdfs.py
    ```  
 
 ---
